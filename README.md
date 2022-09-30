@@ -11,10 +11,13 @@ As one can observe from the table below the evrwhelming majority of rides take p
 
 <img src="https://github.com/ArmineKhanan/PyBer_Analysis/blob/main/Pyber%20Summary%20.png" width="800" />
 
-### Fare amount over the time
+### Fare Amount Over the Time
+If we look at the weekly fare amount line chart below, we can grasp a hardly noticeable trend of growth of fare amount over time. This is hypothetically can be attributed to the seasonality nature of the business, and one can expect higher figures for summer months.
+
 <img src="https://github.com/ArmineKhanan/PyBer_Analysis/blob/main/Total%20Fare%20by%20City%20Type.png" width="800" />
 
 
 ### Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+The data proves that 
+#### Next Steps
