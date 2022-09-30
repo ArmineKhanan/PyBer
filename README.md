@@ -6,7 +6,8 @@ PyBer is a ride-sharing app company valued at $2.3 billion. As a data analyst we
 
 ## Results
 To complete the assignement I wrote Python scripts using Pandas libraries, the Jupyter Notebook, and Matplotlib. 
-### Suumary Statististics
+### Summary Statististics
+As one can observe from the table below the evrwhelming majority of rides take place in urban areas. The second interesting finding is the fact that per rider fare is the biggest in the rural areas.
 <img src="https://github.com/ArmineKhanan/PyBer_Analysis/blob/main/Pyber%20Summary%20.png" width="800" />
 
 ### Fare amount over the time
