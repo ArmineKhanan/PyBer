@@ -19,5 +19,9 @@ If we look at the weekly fare amount line chart below, we can grasp a hardly not
 
 ### Summary:
 
-The data proves that 
+The data proves that average fare per rider is much higher in subrurban and rural areas. Thus it's worth directing marketing efforts there.
+Judging from the ratio of rides and riders, it seems there are a lot of 'one-timers' among the customers. Thus it's worth to review the retention strategy of the company.
+
 #### Next Steps
+
+In order to reveal more about riding patters of the customers I would like to look at the weekday distribution of customer rides. It would also assist to define the riding purpose: is it a random reacreational activity or done for business, e.g. commuting to waork every day.
